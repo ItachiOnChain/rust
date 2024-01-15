@@ -12,3 +12,7 @@ path = "src/01Variables.rs"
 [[bin]]
 name = "02ConditionalLoops"
 path = "src/02ConditionalLoops.rs"
+
+[[bin]]
+name = "03Functions"
+path = "src/03Functions.rs"
